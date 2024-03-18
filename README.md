@@ -21,7 +21,10 @@ The application is used through Insomnia. The user can use  Put, Get, and  Post 
 
 
 ## Demo
-Below is a demonstration of the application.
+Below is a demonstration of how to seed the data from the seeds files and how to start up the server to be used in insomnia:
+Click [here](https://drive.google.com/file/d/10jahjy464shV4qQsjSJAIxGKPyXsm6Oy/view) for a demonstration of how to start things up
+
+Below is a demonstration of the application's GET, POST, PUT, and DELETE requests:
 Click [here](https://drive.google.com/file/d/1T97tnXcBb3meyyFM9OYxpWfgmshgXHt6/view) for a demonstration of the application.
 
 
